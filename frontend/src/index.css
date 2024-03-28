@@ -1,0 +1,21 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* body
+{
+  font-family: sans-serif;
+} */
+/* .font-sans {
+  font-family: 'Crimson Pro', sans-serif;
+} */
+#kurale-regular {
+  font-family: "Kurale", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+
