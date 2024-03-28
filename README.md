@@ -4,7 +4,7 @@
 This Task Management App is a web application built using Node.js, Express, and MongoDB as a non-SQL database. It provides users with the ability to manage tasks effectively by creating, updating, and deleting tasks. Users can also sign in securely using Sinam authentication. The frontend of the application is developed using React along with Tailwind CSS for styling.
 
 ### Features
-- User authentication using Sinam login.
+- User authentication login.
 - Create, read, update, and delete tasks.
 - Ability to add detailed descriptions and operations for each task.
 - User-friendly interface with responsive design.
